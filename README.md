@@ -1,2 +1,3 @@
 # hello-world
 hello world, learning example
+ This is Jakub, hi, ..., I like...
